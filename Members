@@ -490,14 +490,6 @@
           <span class="svc-link">View members <i class="ti ti-arrow-right"></i></span>
         </div>
       </a>
-       <a class="service-card" href="https://expense-tracker-cashflow.vercel.app/" target="_blank">
-        <div class="svc-icon svc-member"><i class="ti ti-users"></i></div>
-        <div class="svc-body">
-          <h3>Expense Tracker and Cashflow Mgmt</h3>
-          <p> All the Exepnses are being tracker with 3 levels approval and Cash Flow Mgmt </p>
-          <span class="svc-link">View members <i class="ti ti-arrow-right"></i></span>
-        </div>
-      </a>
     </div>
   </div>
 </div>
